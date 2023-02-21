@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Valentine-Card/static/css/main.bbabbef8.css",
+    "main.js": "/Valentine-Card/static/js/main.47ed78c6.js",
+    "static/media/display.png": "/Valentine-Card/static/media/display.84bc3f514f56cf0f5c6c.png",
+    "index.html": "/Valentine-Card/index.html",
+    "main.bbabbef8.css.map": "/Valentine-Card/static/css/main.bbabbef8.css.map",
+    "main.47ed78c6.js.map": "/Valentine-Card/static/js/main.47ed78c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbabbef8.css",
+    "static/js/main.47ed78c6.js"
+  ]
+}
