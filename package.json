@@ -2,8 +2,10 @@
   "name": "valentine-card",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://IdanFischer.github.io/Valentine-Card",
   "dependencies": {
     "antd": "^5.2.0",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.8.1",
